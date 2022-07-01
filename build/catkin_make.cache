@@ -1,0 +1,2 @@
+LabRobotica20221/lab1:LabRobotica20221/lab2
+-DCATKIN_DEVEL_PREFIX=/home/daniel/Robotica/lab_ws/devel -DCMAKE_INSTALL_PREFIX=/home/daniel/Robotica/lab_ws/install -G Unix Makefiles
